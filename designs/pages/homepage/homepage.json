@@ -1,0 +1,14 @@
+{
+    "appPageId": "9b6de2b4-c868-d7be-3b4b-6dc5cb87c0e9",
+    "appPageName": "homepage",
+    "componentName": "homepageComponent",
+    "selectorName": "bh-homepage",
+    "htmlFileName": "homepage.template.html",
+    "tsFileName": "homepage.component.ts",
+    "createDate": "2021-01-13T11:05:34.696Z",
+    "bkd": {
+        "designerHtml": "",
+        "designerReference": {},
+        "ts": ""
+    }
+}
