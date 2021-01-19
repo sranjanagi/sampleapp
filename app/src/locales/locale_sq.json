@@ -1,7 +1,7 @@
 {
     "localeId": "sq",
     "localeName": "Albanian",
-    "isDefaultLanguage": true,
+    "isDefaultLanguage": false,
     "properties": {
         "submit": "nënshtrohen"
     }

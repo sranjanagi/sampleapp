@@ -10,9 +10,17 @@
     "sq": {
         "localeId": "sq",
         "localeName": "Albanian",
-        "isDefaultLanguage": true,
+        "isDefaultLanguage": false,
         "properties": {
             "submit": "nënshtrohen"
+        }
+    },
+    "ar": {
+        "localeId": "ar",
+        "localeName": "Arabic",
+        "isDefaultLanguage": true,
+        "properties": {
+            "submit": "إرسال"
         }
     }
 }
