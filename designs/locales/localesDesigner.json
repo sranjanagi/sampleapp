@@ -2,7 +2,17 @@
     "en": {
         "localeId": "en",
         "localeName": "English",
+        "isDefaultLanguage": false,
+        "properties": {
+            "submit": "submit"
+        }
+    },
+    "sq": {
+        "localeId": "sq",
+        "localeName": "Albanian",
         "isDefaultLanguage": true,
-        "properties": {}
+        "properties": {
+            "submit": "nënshtrohen"
+        }
     }
 }
